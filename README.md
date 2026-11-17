@@ -1,76 +1,34 @@
-<h1 align="center">💀 Juan Amorós García</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=F81D1D&center=true&vCenter=true&width=600&lines=Pentester+Junior+Inquieto;eJPT+Certified;+40%2B+Write-ups+de+Máquinas;CTF+Passionate" alt="Typing SVG" />
-</p>
+# Hi, I'm Juan Amorós García 👋
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PERFIL-ESTÁTICO-grey?style=for-the-badge&logo=opsgenie&logoColor=red"/>
-</p>
+**Junior Penetration Tester · eJPT** · Zurich area, Switzerland  
+Founder of [Limmattal IT & Security](https://limmattal-it.ch) – IT support and cybersecurity for SMEs.
 
----
+> 🇨🇭 *IT-Sicherheit für KMU im Limmattal – verständlich, auf Deutsch, mit offenen Werkzeugen.*
 
-### 🛡️ Credenciales Destacadas
+I build small, well-tested security tools for real-world needs: checking whether a company's e-mail can be spoofed, and writing findings that management actually understands.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/CERT-eJPT-red?style=flat-square&logo=eltern&logoColor=white&labelColor=333" />
-  <img src="https://img.shields.io/badge/EXPERIENCIA-+40_Write--ups-brightgreen?style=flat-square&logo=gitbook&logoColor=white&labelColor=333" />
-  <img src="https://img.shields.io/badge/ROL-Pentester_Junior-blue?style=flat-square&logo=cyberdefenders&logoColor=white&labelColor=333" />
-</p>
+[![Website](https://img.shields.io/badge/limmattal--it.ch-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://limmattal-it.ch) [![CV](https://img.shields.io/badge/Interactive_CV-333?style=flat-square&logo=githubpages&logoColor=white)](https://chilaba8.github.io/Juan_Amoros_Garcia/) [![E-Mail](https://img.shields.io/badge/kontakt@limmattal--it.ch-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kontakt@limmattal-it.ch) ![eJPT](https://img.shields.io/badge/eJPT-certified-C1272D?style=flat-square)
 
 ---
 
-### 📊 Perfil Técnico y Actividad
+## 🔧 Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ccyl13&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F81D1D&icon_color=F81D1D" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccyl13&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F81D1D" width="38%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ccyl13&theme=radical&hide_border=true&background=0D1117&sideNums=F81D1D&stroke=F81D1D" width="87%" />
-</p>
+| Project | What it does |
+|---|---|
+| [**pruefstand**](https://github.com/chilaba8/pruefstand) | Passive e-mail & DNS security check for Swiss SMEs: SPF, DKIM, DMARC, MTA-STS, DNSSEC, look-alike domains, exposed services (Shodan / CISA KEV). Generates a German PDF report for management and ready-to-paste DNS fixes. Python · 238 tests · CI |
+| [**befundkatalog**](https://github.com/chilaba8/befundkatalog) | Open catalogue of 59 pentest & audit findings in German (CWE, severity, one-line summary for management, verification command). Exports to Markdown and SysReptor templates. CC BY 4.0 |
+| [**bhp-toolkit**](https://github.com/chilaba8/bhp-toolkit) | Network tools in Python built while working through *Black Hat Python*: TCP/UDP clients & servers, a Netcat replacement, SSH tunnelling |
+| [**dockerlabs-writeups**](https://github.com/chilaba8/dockerlabs-writeups) | Boot2root write-ups for 12 vulnerable DockerLabs machines (enumeration → exploitation → privilege escalation). HackTheBox write-ups are published once machines retire |
 
 ---
 
-### 🛠️ Arsenal de Herramientas y Habilidades
+## 🎯 Focus
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>⚡ Tecnologías Core</h4>
-      <img src="https://skillicons.dev/icons?i=linux,bash,python,powershell,docker,mysql,git,vscode&perline=4" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>🎯 Áreas de Enfoque Junior</h4>
-      <code><b>Evaluación de Redes:</b> Enumeración, Explotación, Pivoting</code><br>
-      <code><b>Análisis Web:</b> OWASP Top 10, Explotación básica, Reconocimiento</code><br>
-      <code><b>Seguridad en Sistemas:</b> Linux, Windows (Conceptos AD)</code><br>
-      <code><b>Documentación:</b> Redacción de Informes, Write-ups Técnicos</code>
-    </td>
-  </tr>
-</table>
+- **Network & infrastructure:** enumeration, exploitation, pivoting, Linux and Windows / Active Directory basics
+- **Web:** OWASP Top 10, reconnaissance, Burp Suite
+- **E-mail security:** SPF / DKIM / DMARC, phishing analysis, look-alike domains
+- **Reporting:** clear findings for technicians *and* management
 
----
+## 🛠️ Tools
 
-### 🌐 Ecosistema de Herramientas
-
-<p align="center">
-  <img src="https://img.shields.io/badge/OS-Kali_Linux-566B8E?style=flat-square&logo=kali-linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RECON-Nmap-red?style=flat-square&logo=dependabot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WEB-Burp_Suite-orange?style=flat-square&logo=burp-suite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PWN-Metasploit-00A9E0?style=flat-square&logo=rapid7&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PWD-John_the_Ripper-C1272D?style=flat-square&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PLAT-HackTheBox-9FEF00?style=flat-square&logo=hack-the-box&logoColor=black"/>
-</p>
-
----
-
-### 📈 Flujo de Trabajo Reciente
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ccyl13&theme=react-dark&area=true&hide_border=true&bg_color=0D1117&color=F81D1D" width="100%" />
-</p>
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=ccyl13&label=VISITAS&color=red&style=flat-square" alt="Views" />
-</p>
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square) ![Hack The Box](https://img.shields.io/badge/Hack_The_Box-111927?style=flat-square&logo=hackthebox&logoColor=9FEF00)
