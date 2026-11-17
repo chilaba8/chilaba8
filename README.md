@@ -18,7 +18,7 @@ I build small, well-tested security tools for real-world needs: checking whether
 | [**pruefstand**](https://github.com/chilaba8/pruefstand) | Passive e-mail & DNS security check for Swiss SMEs: SPF, DKIM, DMARC, MTA-STS, DNSSEC, look-alike domains, exposed services (Shodan / CISA KEV). Generates a German PDF report for management and ready-to-paste DNS fixes. Python · 238 tests · CI |
 | [**befundkatalog**](https://github.com/chilaba8/befundkatalog) | Open catalogue of 59 pentest & audit findings in German (CWE, severity, one-line summary for management, verification command). Exports to Markdown and SysReptor templates. CC BY 4.0 |
 | [**bhp-toolkit**](https://github.com/chilaba8/bhp-toolkit) | Network tools in Python built while working through *Black Hat Python*: TCP/UDP clients & servers, a Netcat replacement, SSH tunnelling |
-| [**dockerlabs-writeups**](https://github.com/chilaba8/dockerlabs-writeups) | Boot2root write-ups for 12 vulnerable DockerLabs machines (enumeration → exploitation → privilege escalation). HackTheBox write-ups are published once machines retire |
+| [**dockerlabs-writeups**](https://github.com/chilaba8/dockerlabs-writeups) | Boot2root write-ups for DockerLabs machines (11 rooted, 1 in progress), reported like pentest findings: severity, root cause, PoC, impact, fix. HackTheBox write-ups are published once machines retire |
 
 ---
 
